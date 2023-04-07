@@ -1,5 +1,8 @@
 # altschool-3rd-term-exam
 
+https://alstchool-exam-projects.vercel.app/
+
+
 ## Project setup
 ```
 npm install
